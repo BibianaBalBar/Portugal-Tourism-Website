@@ -160,10 +160,18 @@ a:active {
 }
 
 .main-footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  color: white;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  background-color: rgb(255, 169, 73);
   border-bottom: 10px solid #38a4d3;
 }
+
+.main-footer a {
+  font-weight: bold;
+}
+
+
 
 .t-border {
   border-top: 2px solid #dfe2e6;
