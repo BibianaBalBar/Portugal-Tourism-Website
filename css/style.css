@@ -107,7 +107,7 @@ a:active {
 /* Main Styles --------------------- */
 
 .main-header {
-  padding-top: 17rem;
+  padding-top: 16rem;
   min-height: 100vh;
   background: linear-gradient(#38a4d3, transparent 65%), 
               linear-gradient(5deg, #fff, transparent 50%),
